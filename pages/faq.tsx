@@ -1,10 +1,16 @@
 import styled from "styled-components";
 import Head from "next/head";
 import DropDownQuestion from "./../components/FaqDropDownQuestion";
+import { CustomMeta } from "../components/CustomMeta";
 
 export default function FAQ(props) {
     return <Wrapper>
-       
+       <CustomMeta 
+         title="Faq's - Dev Hub"
+         description="Find answers to some Frequently Asked Questions."
+         imageURL="/img/navbar/Logo.png"
+         siteName="Dev Hub"
+      />
         <ContentContainer>
             <br /><br /> <br /><br />
             <h1>FAQ's and Info</h1>

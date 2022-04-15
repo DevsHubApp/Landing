@@ -25,7 +25,7 @@ export default function Home() {
          title="Dev Hub"
          description="The information sharing community made for developers and programmers alike."
          imageURL="/img/navbar/Logo.png"
-         siteName=""
+         siteName="Dev Hub"
       />
       <ContentContainer>
         <h1>Welcome to Dev Hub</h1>
