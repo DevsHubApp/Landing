@@ -32,7 +32,6 @@ export default function Home() {
         <br />
         <p>
           Our website is actively being developed but should be available soon.
-          <br />
           You can join us on the following platforms to stay up-to date with our progress!
         </p>
         <NotifyContainer>
